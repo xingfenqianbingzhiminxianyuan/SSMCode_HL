@@ -1,0 +1,11 @@
+server:
+  port: 8762
+
+spring:
+  application:
+    name: aiplatform
+  datasource:
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://127.0.0.1:3306/spiders
+      username: root
+      password: 757834747finn
